@@ -188,7 +188,7 @@ const Contact = (props) => {
                     <input onClick={() => { redirect('https://www.instagram.com/not_keene_at_all/') }} style={styles['image']} type='image' src={instagram} alt=''/>
                 </div>
             </div>
-        )
+        )   
     }
 
     return (

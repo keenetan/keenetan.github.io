@@ -20,7 +20,8 @@
 
 ## 🤝 Contributing
 
-Initial fork from **https://github.com/LeonDJ7/personal-website**
+Inspiration from from: 
+- **https://github.com/LeonDJ7/personal-website**
 
 ## Show your support
 
